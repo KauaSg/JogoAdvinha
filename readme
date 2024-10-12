@@ -1,0 +1,16 @@
+O Que Aprendi no Curso C: conhecendo a Linguagem das Linguagens
+No curso C: conhecendo a Linguagem das Linguagens, explorei os conceitos fundamentais da linguagem C através de uma abordagem prática e focada em exercícios. Essa experiência me permitiu aprender a lógica por trás da programação e aplicar o conhecimento em projetos concretos. Abaixo estão alguns dos tópicos e atividades que desenvolvi durante o curso:
+
+Como Criar o Primeiro Programa em C: Iniciei o curso aprendendo a estrutura básica de um programa em C, com destaque para a função main(), entrada e saída de dados.
+
+Variáveis e Operações Matemáticas: Realizei um exercício em que criei um programa para multiplicar dois números fornecidos pelo usuário, entendendo como variáveis podem armazenar e processar dados.
+
+Estruturas de Controle: Pratiquei o uso de loops while e for para controlar o fluxo do programa. Em um dos exercícios, imprimi números de 1 a 100 utilizando ambas as estruturas, o que consolidou meu entendimento sobre laços de repetição.
+
+Cálculo Acumulativo com for: Desenvolvi um programa para somar números de 1 a 100 de forma acumulativa, utilizando um loop for. Este exercício me ajudou a ver como o C lida com cálculos iterativos.
+
+Tabuada com for: Criei um programa que calcula e exibe a tabuada de um número digitado pelo usuário, aplicando o for para automatizar os cálculos e exibir os resultados de maneira sequencial.
+
+Construção de um Jogo de Adivinhação Completo: Ao final do curso, combinei todos os conhecimentos adquiridos para criar um jogo de adivinhação. O jogo permite múltiplas tentativas, ajusta a dificuldade com base em níveis, e calcula uma pontuação final de acordo com a precisão dos chutes.
+
+Esse curso me deu uma base sólida em programação C, através de exercícios práticos que me permitiram aplicar o conhecimento em um projeto completo. Foi uma ótima maneira de começar a aprender C e a entender como essa linguagem pode ser poderosa e versátil.
